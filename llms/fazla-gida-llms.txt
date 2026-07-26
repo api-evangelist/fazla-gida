@@ -1,0 +1,33 @@
+# Fazla (Fazla Gida / Whole Surplus)
+
+> Turkish technology-driven waste management and circular-economy company (founded 2017, Istanbul). A digital decision-support platform that helps B2B clients across the supply chain prevent waste at the source and recover value from surplus inventory through secondary-sales marketplace, donation, animal-feed conversion, and recycling modules. First B Corp-certified waste-management organization in Turkey; backed by 500 Global.
+
+<!--
+generated: '2026-07-19'
+method: generated
+source: apis.yml + https://fazla.com (no public API surface found as of this pass)
+note: Fazla publishes no public developer/API documentation. app.fazla.com is an
+      authentication-gated application (openapi.json returns 401). This file is a
+      catalog-generated company profile, not a harvested provider llms.txt.
+-->
+
+## About
+
+- [Our story](https://fazla.com/en/our-story/): Company background and mission.
+- [Our services](https://fazla.com/en/our-services/): Marketplace, donation, animal feed, recycling, smart-scale IoT, consulting, AI analysis.
+- [Reports](https://fazla.com/en/report/): Impact and sustainability reports.
+
+## Product
+
+- [Application (sign in / sign up)](https://app.fazla.com/en): The Fazla B2B platform (authentication required).
+- [Fazla Iyi](https://fazla.com/): Consumer surprise-box app for local businesses.
+
+## Docs
+
+- [Blog](https://fazla.com/en/blog/): Company and circular-economy articles.
+- [Contact](https://fazla.com/en/contact-us/): Support and inquiries.
+- [Privacy policy (KVKK)](https://fazla.com/kvkk-politikasi/): Data protection and privacy.
+
+## APIs
+
+No public API is documented at this time.
